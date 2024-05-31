@@ -1,0 +1,11 @@
+
+
+# ユニットテスト
+python test_sentiment_analysis.py
+
+# 静的解析
+pylint server.py
+
+# サーバー起動
+python server.py
+
